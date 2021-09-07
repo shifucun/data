@@ -1,0 +1,13 @@
+Node: E:business->E1
+typeOf: schema:Corporation
+dcid: C:business->dcid
+name: C:business->name
+foundingDate: C:business->foundingDate
+location: E:business->E2
+url: C:business->url
+cik: C:business->cik
+
+
+Node: E:business->E2
+typeOf: schema:Place
+dcid: E:business->location
