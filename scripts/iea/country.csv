@@ -1,0 +1,273 @@
+name,id
+Kingdom of Denmark,wikidataId/Q756617
+El Salvador,country/SLV
+Latvia,country/LVA
+Saint Pierre and Miquelon,country/SPM
+Saint Kitts and Nevis,country/KNA
+Haiti,country/HTI
+New Caledonia,country/NCL
+United Kingdom,country/GBR
+Malaysia,country/MYS
+New Zealand,country/NZL
+Slovakia,country/SVK
+Vanuatu,country/VUT
+Guatemala,country/GTM
+Niue,country/NIU
+Mauritania,country/MRT
+Czech Republic,country/CZE
+Honduras,country/HND
+Lesotho,country/LSO
+Denmark,country/DNK
+France,country/FRA
+Liberia,country/LBR
+Zambia,country/ZMB
+Greece,country/GRC
+Estonia,country/EST
+Malawi,country/MWI
+Kosovo,country/XKS
+Union of Soviet Socialist Republics,country/SUN
+Dahomey,country/DHY
+Anguilla,country/AIA
+Mexico,country/MEX
+Svalbard and Jan Mayen,country/SJM
+Croatia,country/HRV
+Eswatini,country/SWZ
+Mauritius,country/MUS
+Niger,country/NER
+Federated States of Micronesia,country/FSM
+Kazakhstan,country/KAZ
+Yemen,country/YEM
+Russia,country/RUS
+Tanzania,country/TZA
+Benin,country/BEN
+Solomon Islands,country/SLB
+Papua New Guinea,country/PNG
+Cape Verde,country/CPV
+Madagascar,country/MDG
+Panama,country/PAN
+American Samoa,country/ASM
+Marshall Islands,country/MHL
+Yugoslavia,country/YUG
+Mongolia,country/MNG
+Australia,country/AUS
+Ghana,country/GHA
+Sint Maarten,country/SXM
+Tokelau,country/TKL
+Lebanon,country/LBN
+South Korea,country/KOR
+Burkina Faso,country/BFA
+Peru,country/PER
+Metropolitan France,country/FXX
+Gambia,country/GMB
+Byelorussian SSR,country/BYS
+Philippines,country/PHL
+Nicaragua,country/NIC
+Japan,country/JPN
+Western Sahara,country/ESH
+Isle of Man,country/IMN
+Zimbabwe,country/ZWE
+Turkmenistan,country/TKM
+Palestinian Territories,country/PSE
+Norfolk Island,country/NFK
+Central African Republic,country/CAF
+Switzerland,country/CHE
+Netherlands Antilles,country/ANT
+Slovenia,country/SVN
+Comoros,country/COM
+Upper Volta,country/HVO
+Bhutan,country/BTN
+Bermuda,country/BMU
+Saint Martin,country/MAF
+Ecuador,country/ECU
+Chad,country/TCD
+Sri Lanka,country/LKA
+East Timor,country/TLS
+Wallis and Futuna,country/WLF
+Morocco,country/MAR
+Sudan,country/SDN
+Laos,country/LAO
+Mali,country/MLI
+Poland,country/POL
+German Democratic Republic,country/DDR
+Algeria,country/DZA
+Bahrain,country/BHR
+Dominican Republic,country/DOM
+Cambodia,country/KHM
+Jersey,country/JEY
+Eritrea,country/ERI
+Turkey,country/TUR
+Cameroon,country/CMR
+Burundi,country/BDI
+Georgia,country/GEO
+Palau,country/PLW
+Uganda,country/UGA
+Iceland,country/ISL
+Vatican City,country/VAT
+Cocos (Keeling) Islands,country/CCK
+South Africa,country/ZAF
+Botswana,country/BWA
+Saint Barthélemy,country/BLM
+Israel,country/ISR
+Spain,country/ESP
+French Southern Territories,country/ATF
+Bangladesh,country/BGD
+U.S. Minor Outlying Islands,country/UMI
+Somalia,country/SOM
+Hong Kong,country/HKG
+Andorra,country/AND
+Montserrat,country/MSR
+Colombia,country/COL
+Canton and Enderbury Islands,country/CTE
+Cayman Islands,country/CYM
+Mozambique,country/MOZ
+Angola,country/AGO
+Curaçao,country/CUW
+French Polynesia,country/PYF
+Syria,country/SYR
+Sierra Leone,country/SLE
+Monaco,country/MCO
+Belize,country/BLZ
+Canada,country/CAN
+Rwanda,country/RWA
+Gabon,country/GAB
+Brazil,country/BRA
+Iraq,country/IRQ
+Armenia,country/ARM
+Thailand,country/THA
+Guam,country/GUM
+Romania,country/ROU
+Dronning Maud Land,country/ATN
+Kenya,country/KEN
+San Marino,country/SMR
+Cuba,country/CUB
+Belarus,country/BLR
+Uruguay,country/URY
+India,country/IND
+"Bonaire, Sint Eustatius and Saba",country/BES
+Libya,country/LBY
+Sweden,country/SWE
+Pakistan,country/PAK
+Guinea,country/GIN
+Tuvalu,country/TUV
+Dominica,country/DMA
+Afghanistan,country/AFG
+Iran,country/IRN
+French Guiana,country/GUF
+Ukraine,country/UKR
+Ireland,country/IRL
+Argentina,country/ARG
+French Afars and Issas,country/AFI
+New Hebrides,country/NHB
+São Tomé and Príncipe,country/STP
+Moldova,country/MDA
+Luxembourg,country/LUX
+Bouvet Island,country/BVT
+Côte d'Ivoire,country/CIV
+Bahamas,country/BHS
+Jordan,country/JOR
+Tunisia,country/TUN
+Antarctica,country/ATA
+Qatar,country/QAT
+Falkland Islands,country/FLK
+Oman,country/OMN
+Egypt,country/EGY
+South Sudan,country/SSD
+Guernsey,country/GGY
+Belgium,country/BEL
+Albania,country/ALB
+Portugal,country/PRT
+Cook Islands,country/COK
+Taiwan,country/TWN
+Grenada,country/GRD
+Guinea-Bissau,country/GNB
+Myanmar,country/MMR
+Germany,country/DEU
+Senegal,country/SEN
+Liechtenstein,country/LIE
+United States,country/USA
+Heard Island and McDonald Islands,country/HMD
+Lithuania,country/LTU
+British Antarctic Territory,country/ATB
+Nauru,country/NRU
+Greenland,country/GRL
+Kyrgyzstan,country/KGZ
+Azerbaijan,country/AZE
+Maldives,country/MDV
+Nigeria,country/NGA
+Hungary,country/HUN
+Brunei,country/BRN
+U.S. Virgin Islands,country/VIR
+Ethiopia,country/ETH
+Mayotte,country/MYT
+Malta,country/MLT
+South Georgia and the South Sandwich Islands,country/SGS
+Italy,country/ITA
+Finland,country/FIN
+Togo,country/TGO
+Saint Lucia,country/LCA
+Netherlands,country/NLD
+Martinique,country/MTQ
+Serbia,country/SRB
+Samoa,country/WSM
+Bolivia,country/BOL
+Vietnam,country/VNM
+Montenegro,country/MNE
+Equatorial Guinea,country/GNQ
+Gibraltar,country/GIB
+Tonga,country/TON
+China,country/CHN
+Christmas Island,country/CXR
+Turks and Caicos Islands,country/TCA
+Seychelles,country/SYC
+Saint Vincent and the Grenadines,country/VCT
+Nepal,country/NPL
+Bosnia and Herzegovina,country/BIH
+Pitcairn Islands,country/PCN
+Congo [Republic],country/COG
+Namibia,country/NAM
+Guadeloupe,country/GLP
+Saint Helena,country/SHN
+Macau,country/MAC
+Cyprus,country/CYP
+Kuwait,country/KWT
+United Arab Emirates,country/ARE
+Northern Mariana Islands,country/MNP
+North Korea,country/PRK
+Guyana,country/GUY
+British Indian Ocean Territory,country/IOT
+Jamaica,country/JAM
+Indonesia,country/IDN
+Tajikistan,country/TJK
+Uzbekistan,country/UZB
+Macedonia [FYROM],country/MKD
+Costa Rica,country/CRI
+Fiji,country/FJI
+Suriname,country/SUR
+Austria,country/AUT
+Paraguay,country/PRY
+Congo [DRC],country/COD
+Trinidad and Tobago,country/TTO
+Puerto Rico,country/PRI
+Gilbert and Ellice Islands,country/GEL
+Czechoslovakia,country/CSK
+Réunion,country/REU
+Venezuela,country/VEN
+Antigua and Barbuda,country/ATG
+Chile,country/CHL
+Bulgaria,country/BGR
+Barbados,country/BRB
+Saudi Arabia,country/SAU
+Djibouti,country/DJI
+British Virgin Islands,country/VGB
+Faroe Islands,country/FRO
+Kiribati,country/KIR
+Aruba,country/ABW
+Singapore,country/SGP
+Norway,country/NOR
+Serbia and Montenegro,country/SCG
+Republic of Abkhazia,wikidataId/Q31354462
+Asgardia,wikidataId/Q27304761
+Artsakh,wikidataId/Q244165
+Sahrawi Arab Democratic Republic,wikidataId/Q40362
+Kingdom of the Netherlands,wikidataId/Q29999
+Turkish Republic of Northern Cyprus,wikidataId/Q23681

@@ -1,0 +1,43 @@
+Node: E:IEA_Electricity->E0
+typeOf: schema:Place
+dcid: C:IEA_Electricity->place
+
+Node: E:IEA_Electricity->E1
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:Monthly_Generation_Electricity_CombustibleFuel
+value: C:IEA_Electricity->Monthly_Generation_Electricity_CombustibleFuel
+observationDate: C:IEA_Electricity->date
+observationPeriod: "P1M"
+observationAbout: E:IEA_Electricity->E0
+
+Node: E:IEA_Electricity->E2
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:Monthly_Generation_Electricity_Nuclear
+value: C:IEA_Electricity->Monthly_Generation_Electricity_Nuclear
+observationDate: C:IEA_Electricity->date
+observationPeriod: "P1M"
+observationAbout: E:IEA_Electricity->E0
+
+Node: E:IEA_Electricity->E3
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:Monthly_Generation_Electricity_HydroelectricPumpedStorage
+value: C:IEA_Electricity->Monthly_Generation_Electricity_HydroelectricPumpedStorage
+observationDate: C:IEA_Electricity->date
+observationPeriod: "P1M"
+observationAbout: E:IEA_Electricity->E0
+
+Node: E:IEA_Electricity->E4
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:Monthly_Generation_Electricity_Geothermal
+value: C:IEA_Electricity->Monthly_Generation_Electricity_Geothermal
+observationDate: C:IEA_Electricity->date
+observationPeriod: "P1M"
+observationAbout: E:IEA_Electricity->E0
+
+Node: E:IEA_Electricity->E5
+typeOf: dcs:StatVarObservation
+variableMeasured: dcs:Monthly_Generation_Electricity
+value: C:IEA_Electricity->Monthly_Generation_Electricity
+observationDate: C:IEA_Electricity->date
+observationPeriod: "P1M"
+observationAbout: E:IEA_Electricity->E0
